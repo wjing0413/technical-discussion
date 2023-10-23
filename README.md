@@ -19,4 +19,4 @@ this is the [notebook](https://github.com/wjing0413/technical-discussion/blob/ma
 
 ### Image
 
-<img width="379" alt="image" src="https://github.com/wjing0413/technical-discussion/assets/148805346/6e6014b6-032b-485e-ba97-e0146fd1eae4">
+<img width="379" alt="Screenshot 2023-10-23 192705" src="https://github.com/wjing0413/technical-discussion/assets/148805346/6b032c1e-5a8a-4ea3-a0e4-17bef8b89118">
