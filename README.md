@@ -18,4 +18,5 @@ this is the [notebook](https://github.com/wjing0413/technical-discussion/blob/ma
 
 
 ### Image
-https://github.com/wjing0413/technical-discussion/issues/1#issue-1957763113
+
+<img width="379" alt="image" src="https://github.com/wjing0413/technical-discussion/assets/148805346/6e6014b6-032b-485e-ba97-e0146fd1eae4">
